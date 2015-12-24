@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWaluta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Waluta>
+    <Nazwa>USD</Nazwa>
+    <KursSprzedazy>3.89</KursSprzedazy>
+    <KursKupna>3.76</KursKupna>
+    <Aktualizacja>2015-12-02T12:15:07.4565205+01:00</Aktualizacja>
+  </Waluta>
+  <Waluta>
+    <Nazwa>EUR</Nazwa>
+    <KursSprzedazy>4.5</KursSprzedazy>
+    <KursKupna>4.1</KursKupna>
+    <Aktualizacja>2015-12-02T12:15:13.4528634+01:00</Aktualizacja>
+  </Waluta>
+  <Waluta>
+    <Nazwa>CHF</Nazwa>
+    <KursSprzedazy>3.99</KursSprzedazy>
+    <KursKupna>3.89</KursKupna>
+    <Aktualizacja>2015-12-02T12:15:21.5893288+01:00</Aktualizacja>
+  </Waluta>
+</ArrayOfWaluta>
